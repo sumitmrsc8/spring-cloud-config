@@ -3,4 +3,5 @@ configuration:
 server:
   port: 8000
 message:
-  greeting: Hello from the configuration, This is my Demo!, There is some change in Config, ############## This is changed
+  greeting: Hello from the configuration, This is my Demo!, There is some change in Config, 
+  Another message
